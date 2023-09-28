@@ -24,7 +24,7 @@ Make sure you have the following software installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Rafacv23/Projects/tree/main/11-idle-videogame
+   git clone https://github.com/Rafacv23/idle-game
    ```
 2. Navigate to the repository:
 
