@@ -1,0 +1,40 @@
+button{
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cat-btn{
+    background-image: url("../img/cat-btn.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;;
+}
+
+.cat-btn:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+.upgrade-btn{
+    border-radius: 0.5rem;
+}
+
+.green{
+    background-color: #2EB086;
+    color: #eee6ce;
+}
+
+.green:hover{
+    transform:scale(1.2);
+    transition: 0.5s;
+}
+
+.red{
+    background-color: #B8405E;
+    color: #eee6ce;
+}
